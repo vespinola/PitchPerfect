@@ -1,0 +1,42 @@
+Last login: Sat Dec  2 04:35:27 on ttys000
+c%                                                                                                                       user@Users-Mac  ~/Documents/udacity-nanodegree/PitchPerfect   master  cd 
+ user@Users-Mac  ~  cd Documents/workspace-roshka 
+ user@Users-Mac  ~/Documents/workspace-roshka  cd ita-pagos-ios 
+ user@Users-Mac  ~/Documents/workspace-roshka/ita-pagos-ios   master  vim .gitignore 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##################################################################################
+# macOS.gitignore                                                                #
+# Source: https://github.com/github/gitignore/blob/master/Global/macOS.gitignore #
+##################################################################################
+
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+".gitignore" 105L, 2749C
+

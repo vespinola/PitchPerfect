@@ -67,6 +67,7 @@ extension RecordSoundsViewController: AVAudioRecorderDelegate {
     func audioRecorderDidFinishRecording(_ recorder: AVAudioRecorder, successfully flag: Bool) {
         guard flag else {
             print("recording was not successful")
+            return
         }
         performSegue(withIdentifier: "stopRecording", sender: audioRecorder.url)
     }

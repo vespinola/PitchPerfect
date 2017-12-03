@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE09AE9F1FD4541400835174 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE09AE9E1FD4541400835174 /* Util.swift */; };
 		CE1ADD4A1FD0ECBD000A2EA0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1ADD491FD0ECBD000A2EA0 /* AppDelegate.swift */; };
 		CE1ADD4C1FD0ECBD000A2EA0 /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1ADD4B1FD0ECBD000A2EA0 /* RecordSoundsViewController.swift */; };
 		CE1ADD4F1FD0ECBD000A2EA0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE1ADD4D1FD0ECBD000A2EA0 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE09AE9E1FD4541400835174 /* Util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
 		CE1ADD461FD0ECBD000A2EA0 /* PitchPerfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PitchPerfect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE1ADD491FD0ECBD000A2EA0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE1ADD4B1FD0ECBD000A2EA0 /* RecordSoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordSoundsViewController.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				CEFB75B01FD30B68008542DD /* PlaySoundsViewController+Audio.swift */,
+				CE09AE9E1FD4541400835174 /* Util.swift */,
 			);
 			path = "Supporting Files";
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			files = (
 				CE1ADD4C1FD0ECBD000A2EA0 /* RecordSoundsViewController.swift in Sources */,
 				CEFB75B11FD30B68008542DD /* PlaySoundsViewController+Audio.swift in Sources */,
+				CE09AE9F1FD4541400835174 /* Util.swift in Sources */,
 				CEFB75AE1FD2FDEC008542DD /* PlaySoundsViewController.swift in Sources */,
 				CE1ADD4A1FD0ECBD000A2EA0 /* AppDelegate.swift in Sources */,
 			);
